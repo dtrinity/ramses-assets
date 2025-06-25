@@ -1215,6 +1215,12 @@
         "name": "CROC",
         "symbol": "CROC",
         "decimals": 18
+      },
+      {
+        "address": "0xEFA670F00447b13d92b639E06829079ED16498ab",
+        "name": "The MOOCH",
+        "symbol": "MOOCH",
+        "decimals": 18
       }
     ]
   ],
