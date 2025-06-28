@@ -1221,6 +1221,12 @@
         "name": "The MOOCH",
         "symbol": "MOOCH",
         "decimals": 18
+      },
+      {
+        "address": "0xB0682356A16066d5653BE4Ab3e1cC239090f0143",
+        "name": "Where is Malek",
+        "symbol": "WHEREMALEK",
+        "decimals": 18
       }
     ]
   ],
