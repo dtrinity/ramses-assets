@@ -1245,6 +1245,12 @@
         "name": "supercycle (real)",
         "symbol": "SUPER",
         "decimals": 18
+      },
+      {
+        "address": "0x02D159a0c393B3A982c4Acb3d03816A42D94F1aB",
+        "name": "Golden Crocodile",
+        "symbol": "GCROC",
+        "decimals": 18
       }
     ]
   ],
