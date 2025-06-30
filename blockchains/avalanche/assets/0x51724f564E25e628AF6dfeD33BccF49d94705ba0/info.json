@@ -1,7 +1,7 @@
 {
-  "name": "TheBookOfArena",
+  "name": "The Book of Arena",
   "symbol": "BOA",
   "type": "ERC20",
-  "decimals": 9,
-  "id": "0x51724f564E25e628AF6dfeD33BccF49d94705ba0"
+  "decimals": 18,
+  "id": "0x51724f564e25e628af6dfed33bccf49d94705ba0"
 }
