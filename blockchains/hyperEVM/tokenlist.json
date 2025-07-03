@@ -15,6 +15,12 @@
         "address": "0x5555555555555555555555555555555555555555",
         "symbol": "WHYPE",
         "decimals": 18
+      },
+      {
+        "name": "HLP0",
+        "address": "0x3D75F2BB8aBcDBd1e27443cB5CBCE8A668046C81",
+        "symbol": "HLP0",
+        "decimals": 6
       }
     ]
   ],
