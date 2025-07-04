@@ -75,6 +75,12 @@
         "name": "LiquidLaunch",
         "symbol": "LIQD",
         "decimals": 18
+      },
+      {
+        "address": "0x618275F8EFE54c2afa87bfB9F210A52F0fF89364",
+        "name": "Kittenswap",
+        "symbol": "KITTEN",
+        "decimals": 18
       }
     ]
   ],
