@@ -57,6 +57,12 @@
         "name": "feUSD",
         "symbol": "feUSD",
         "decimals": 18
+      },
+      {
+        "address": "0x9b498C3c8A0b8CD8BA1D9851d40D186F1872b44E",
+        "name": "Purr",
+        "symbol": "PURR",
+        "decimals": 18
       }
     ]
   ],
