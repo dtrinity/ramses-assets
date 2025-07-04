@@ -45,6 +45,12 @@
         "name": "Unit Fartcoin",
         "symbol": "UFART",
         "decimals": 6
+      },
+      {
+        "address": "0xb50A96253aBDF803D85efcDce07Ad8becBc52BD5",
+        "name": "Hyper USD",
+        "symbol": "USDHL",
+        "decimals": 6
       }
     ]
   ],
