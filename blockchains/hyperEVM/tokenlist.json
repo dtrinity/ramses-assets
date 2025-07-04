@@ -87,6 +87,12 @@
         "name": "USDeOFT",
         "symbol": "USDe",
         "decimals": 18
+      },
+      {
+        "address": "0x94e8396e0869c9F2200760aF0621aFd240E1CF38",
+        "name": "Staked HYPE Shares",
+        "symbol": "wstHYPE",
+        "decimals": 18
       }
     ]
   ],
