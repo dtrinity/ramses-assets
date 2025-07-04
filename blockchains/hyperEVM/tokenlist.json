@@ -69,6 +69,12 @@
         "name": "Looped HYPE",
         "symbol": "LHYPE",
         "decimals": 18
+      },
+      {
+        "address": "0x1Ecd15865D7F8019D546f76d095d9c93cc34eDFa",
+        "name": "LiquidLaunch",
+        "symbol": "LIQD",
+        "decimals": 18
       }
     ]
   ],
