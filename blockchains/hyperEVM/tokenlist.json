@@ -99,6 +99,12 @@
         "name": "Last USD",
         "symbol": "USDXL",
         "decimals": 18
+      },
+      {
+        "address": "0xf4D9235269a96aaDaFc9aDAe454a0618eBE37949",
+        "name": "XAUt0",
+        "symbol": "XAUt0",
+        "decimals": 6
       }
     ]
   ],
