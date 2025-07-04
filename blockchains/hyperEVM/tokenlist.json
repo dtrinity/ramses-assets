@@ -39,6 +39,12 @@
         "name": "Unit Solana",
         "symbol": "USOL",
         "decimals": 9
+      },
+      {
+        "address": "0x3B4575E689DEd21CAAD31d64C4df1f10F3B2CedF",
+        "name": "Unit Fartcoin",
+        "symbol": "UFART",
+        "decimals": 6
       }
     ]
   ],
