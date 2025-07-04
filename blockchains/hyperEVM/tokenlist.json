@@ -33,6 +33,12 @@
         "name": "Unit Ethereum",
         "symbol": "UETH",
         "decimals": 18
+      },
+      {
+        "address": "0x068f321Fa8Fb9f0D135f290Ef6a3e2813e1c8A29",
+        "name": "Unit Solana",
+        "symbol": "USOL",
+        "decimals": 9
       }
     ]
   ],
