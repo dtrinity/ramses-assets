@@ -93,6 +93,12 @@
         "name": "Staked HYPE Shares",
         "symbol": "wstHYPE",
         "decimals": 18
+      },
+      {
+        "address": "0xca79db4B49f608eF54a5CB813FbEd3a6387bC645",
+        "name": "Last USD",
+        "symbol": "USDXL",
+        "decimals": 18
       }
     ]
   ],
