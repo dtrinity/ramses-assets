@@ -51,6 +51,12 @@
         "name": "Hyper USD",
         "symbol": "USDHL",
         "decimals": 6
+      },
+      {
+        "address": "0x02c6a2fA58cC01A18B8D9E00eA48d65E4dF26c70",
+        "name": "feUSD",
+        "symbol": "feUSD",
+        "decimals": 18
       }
     ]
   ],
