@@ -1251,6 +1251,12 @@
         "name": "Golden Crocodile",
         "symbol": "GCROC",
         "decimals": 18
+      },
+      {
+        "address": "0x9209e7EbD056d72C5996220e99df6049253DeBCf",
+        "name": "MEOW",
+        "symbol": "MEOW",
+        "decimals": 18
       }
     ]
   ],
