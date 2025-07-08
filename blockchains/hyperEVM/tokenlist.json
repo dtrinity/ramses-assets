@@ -159,6 +159,12 @@
         "name": "PiP",
         "symbol": "PiP",
         "decimals": 18
+      },
+      {
+        "address": "0xa320D9f65ec992EfF38622c63627856382Db726c",
+        "name": "HFUN",
+        "symbol": "HFUN",
+        "decimals": 18
       }
     ]
   ],
