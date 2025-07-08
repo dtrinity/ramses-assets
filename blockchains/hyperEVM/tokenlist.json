@@ -147,6 +147,12 @@
         "name": "Relend Network USDC",
         "symbol": "rUSDC",
         "decimals": 6
+      },
+      {
+        "address": "0xdAbB040c428436d41CECd0Fb06bCFDBAaD3a9AA8",
+        "name": "Hyperpie Staked mHYPE",
+        "symbol": "mHYPE",
+        "decimals": 18
       }
     ]
   ],
