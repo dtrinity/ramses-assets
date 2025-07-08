@@ -153,6 +153,12 @@
         "name": "Hyperpie Staked mHYPE",
         "symbol": "mHYPE",
         "decimals": 18
+      },
+      {
+        "address": "0x1bEe6762F0B522c606DC2Ffb106C0BB391b2E309",
+        "name": "PiP",
+        "symbol": "PiP",
+        "decimals": 18
       }
     ]
   ],
