@@ -135,6 +135,12 @@
         "name": "Hyperstable",
         "symbol": "USH",
         "decimals": 18
+      },
+      {
+        "address": "0x47bb061C0204Af921F43DC73C7D7768d2672DdEE",
+        "name": "alright buddy",
+        "symbol": "BUDDY",
+        "decimals": 6
       }
     ]
   ],
