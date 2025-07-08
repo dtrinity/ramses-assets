@@ -141,6 +141,12 @@
         "name": "alright buddy",
         "symbol": "BUDDY",
         "decimals": 6
+      },
+      {
+        "address": "0x9ab96A4668456896d45c301Bc3A15Cee76AA7B8D",
+        "name": "Relend Network USDC",
+        "symbol": "rUSDC",
+        "decimals": 6
       }
     ]
   ],
