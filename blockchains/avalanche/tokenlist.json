@@ -35,6 +35,12 @@
         "decimals": 6
       },
       {
+        "name": "AESYX",
+        "address": "0x67ea3abd5cee0b99d743155051c191b09135f93c",
+        "symbol": "AXD",
+        "decimals": 18
+      },
+      {
         "name": "Yel Finance",
         "address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
         "symbol": "YEL",
