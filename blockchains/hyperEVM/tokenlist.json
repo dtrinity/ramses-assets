@@ -165,6 +165,12 @@
         "name": "HFUN",
         "symbol": "HFUN",
         "decimals": 18
+      },
+      {
+        "address": "0x738dD55C272b0B686382F62DD4a590056839F4F6",
+        "name": "Holy Liquid",
+        "symbol": "HL",
+        "decimals": 6
       }
     ]
   ],
