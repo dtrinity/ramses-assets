@@ -171,6 +171,12 @@
         "name": "Holy Liquid",
         "symbol": "HL",
         "decimals": 6
+      },
+      {
+        "address": "0x96C6cBB6251Ee1c257b2162ca0f39AA5Fa44B1FB",
+        "name": "Hyperbeat Ultra HYPE",
+        "symbol": "hbHYPE",
+        "decimals": 18
       }
     ]
   ],
