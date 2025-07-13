@@ -183,6 +183,12 @@
         "name": "Lilly",
         "symbol": "LILLY",
         "decimals": 6
+      },
+      {
+        "address": "0xBC3FD25d4f88D8fa4C6Cc54b2eb5f623dDF5Ec22",
+        "name": "hyUSD\u20ae0 (HLP0) - 14",
+        "symbol": "hyUSD\u20ae0(HLP0)-14",
+        "decimals": 6
       }
     ]
   ],
