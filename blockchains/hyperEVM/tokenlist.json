@@ -177,6 +177,12 @@
         "name": "Hyperbeat Ultra HYPE",
         "symbol": "hbHYPE",
         "decimals": 18
+      },
+      {
+        "address": "0xf2E6a23B1aA09565FDb3a77AF7772709De3f4F95",
+        "name": "Lilly",
+        "symbol": "LILLY",
+        "decimals": 6
       }
     ]
   ],
