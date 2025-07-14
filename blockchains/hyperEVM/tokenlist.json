@@ -189,6 +189,12 @@
         "name": "hyUSD\u20ae0 (HLP0) - 14",
         "symbol": "hyUSD\u20ae0(HLP0)-14",
         "decimals": 6
+      },
+      {
+        "address": "0xfD739d4e423301CE9385c1fb8850539D657C296D",
+        "name": "Kinetiq Staked HYPE",
+        "symbol": "kHYPE",
+        "decimals": 18
       }
     ]
   ],
