@@ -201,6 +201,12 @@
         "name": "Unit Pump",
         "symbol": "UPUMP",
         "decimals": 6
+      },
+      {
+        "address": "0xC680ba9aF4FcACAF40c1671DD9875f46b7D877B9",
+        "name": "Pre-cum Pile",
+        "symbol": "PCP",
+        "decimals": 6
       }
     ]
   ],
