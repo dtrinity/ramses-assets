@@ -17,6 +17,12 @@
         "decimals": 18
       },
       {
+        "name": "BLACKHOLE",
+        "address": "0xcd94a87696FAC69Edae3a70fE5725307Ae1c43f6",
+        "symbol": "BLACK",
+        "decimals": 18
+      },
+      {
         "name": "Staked UTY",
         "address": "0x580d5E1399157FD0d58218b7A514b60974F2AB01",
         "symbol": "yUTY",
