@@ -1269,6 +1269,12 @@
         "name": "MEOW",
         "symbol": "MEOW",
         "decimals": 18
+      },
+      {
+        "address": "0x1EdF79e77693561E80072BEcbcCE1E16Dc356Aca",
+        "name": "APIX",
+        "symbol": "APIX",
+        "decimals": 18
       }
     ]
   ],
