@@ -1275,6 +1275,12 @@
         "name": "APIX",
         "symbol": "APIX",
         "decimals": 18
+      },
+      {
+        "address": "0xcd94a87696FAC69Edae3a70fE5725307Ae1c43f6",
+        "name": "BLACKHOLE",
+        "symbol": "BLACK",
+        "decimals": 18
       }
     ]
   ],
