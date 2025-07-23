@@ -41,6 +41,13 @@
         "decimals": 6
       },
       {
+        "name": "degen hours",
+        "address": "0x2F0eC0ED7D746936f1AeaC5702816d38329EE9e6",
+        "symbol": "SLEEP",
+        "decimals": 18
+      },
+
+      {
         "name": "AESYX",
         "address": "0x67ea3abd5cee0b99d743155051c191b09135f93c",
         "symbol": "AXD",
