@@ -1266,6 +1266,12 @@
         "decimals": 18
       },
       {
+        "address": "0x180aF87b47Bf272B2df59dccf2D76a6eaFa625Bf",
+        "name": "Re Protocol Deposit Token",
+        "symbol": "reUSD",
+        "decimals": 18
+      },
+      {
         "address": "0x02D159a0c393B3A982c4Acb3d03816A42D94F1aB",
         "name": "Golden Crocodile",
         "symbol": "GCROC",

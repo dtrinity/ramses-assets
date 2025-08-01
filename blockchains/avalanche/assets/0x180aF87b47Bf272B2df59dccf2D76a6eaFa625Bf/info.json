@@ -1,0 +1,7 @@
+{
+  "name": "Re Protocol Deposit Token",
+  "symbol": "reUSD",
+  "type": "ERC20",
+  "decimals": 18,
+  "id": "0x180aF87b47Bf272B2df59dccf2D76a6eaFa625Bf"
+}
