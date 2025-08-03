@@ -207,6 +207,12 @@
         "name": "Pre-cum Pile",
         "symbol": "PCP",
         "decimals": 6
+      },
+      {
+        "address": "0xC1631903081B19F0B7117f34192c7DB48960989C",
+        "name": "Finding Niggo in the vast hyperliquid ocean",
+        "symbol": "NIGGO",
+        "decimals": 18
       }
     ]
   ],
