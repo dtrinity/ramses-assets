@@ -213,6 +213,12 @@
         "name": "Finding Niggo in the vast hyperliquid ocean",
         "symbol": "NIGGO",
         "decimals": 18
+      },
+      {
+        "address": "0x11735dBd0B97CfA7Accf47d005673BA185f7fd49",
+        "name": "CATBAL",
+        "symbol": "CATBAL",
+        "decimals": 18
       }
     ]
   ],
