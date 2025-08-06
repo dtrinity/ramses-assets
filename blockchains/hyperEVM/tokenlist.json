@@ -231,6 +231,12 @@
         "name": "RUB",
         "symbol": "RUB",
         "decimals": 18
+      },
+      {
+        "address": "0x116D2ccA3D58305764f2dAF7eBBc819547099278",
+        "name": "Trenches.Fund",
+        "symbol": "TRENCHES",
+        "decimals": 18
       }
     ]
   ],
