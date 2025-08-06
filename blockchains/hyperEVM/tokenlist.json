@@ -219,6 +219,12 @@
         "name": "CATBAL",
         "symbol": "CATBAL",
         "decimals": 18
+      },
+      {
+        "address": "0xe1FB1bC7A6d1B067DEfe7F9Ce01Ab4B5C931803F",
+        "name": "Fantom Bomb",
+        "symbol": "fBOMB",
+        "decimals": 18
       }
     ]
   ],
