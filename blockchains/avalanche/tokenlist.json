@@ -1272,6 +1272,12 @@
         "decimals": 18
       },
       {
+        "address": "0x03569CC076654F82679C4BA2124D64774781B01D",
+        "name": "Bold",
+        "symbol": "BOLD",
+        "decimals": 18
+      },
+      {
         "address": "0x02D159a0c393B3A982c4Acb3d03816A42D94F1aB",
         "name": "Golden Crocodile",
         "symbol": "GCROC",
