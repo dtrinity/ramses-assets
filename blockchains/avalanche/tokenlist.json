@@ -23,6 +23,12 @@
         "decimals": 18
       },
       {
+        "name": "abcBLACK",
+        "address": "0xA99bf9D4246DFcbC9854C72EFc57Cbe0201dC299",
+        "symbol": "abcBLACK",
+        "decimals": 18
+      },
+      {
         "name": "Staked UTY",
         "address": "0x580d5E1399157FD0d58218b7A514b60974F2AB01",
         "symbol": "yUTY",
