@@ -52,7 +52,6 @@
         "symbol": "SLEEP",
         "decimals": 18
       },
-
       {
         "name": "AESYX",
         "address": "0x67ea3abd5cee0b99d743155051c191b09135f93c",
@@ -1311,6 +1310,12 @@
         "address": "0xcd94a87696FAC69Edae3a70fE5725307Ae1c43f6",
         "name": "BLACKHOLE",
         "symbol": "BLACK",
+        "decimals": 18
+      },
+      {
+        "address": "0x998E717b5108c9BcA32CF717D5ABA5A76fC20d52",
+        "name": "Door to Freedom",
+        "symbol": "DOOR",
         "decimals": 18
       }
     ]
