@@ -237,6 +237,12 @@
         "name": "Trenches.Fund",
         "symbol": "TRENCHES",
         "decimals": 18
+      },
+      {
+        "address": "0x52e444545fbE9E5972a7A371299522f7871aec1F",
+        "name": "JEFF",
+        "symbol": "JEFF",
+        "decimals": 18
       }
     ]
   ],
