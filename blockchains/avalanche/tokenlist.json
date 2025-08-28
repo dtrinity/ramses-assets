@@ -1317,6 +1317,12 @@
         "name": "Door to Freedom",
         "symbol": "DOOR",
         "decimals": 18
+      },
+      {
+        "address": "0x8835A2F66A7AaCCB297Cb985831A616B75e2E16c",
+        "name": "EURØP",
+        "symbol": "EUROP",
+        "decimals": 6
       }
     ]
   ],
