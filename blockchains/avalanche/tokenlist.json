@@ -1329,6 +1329,12 @@
         "name": "EURØP",
         "symbol": "EUROP",
         "decimals": 6
+      },
+      {
+        "address": "0xEeC951BFDEB358371a19512C6c33CdD840d47DB0",
+        "name": "MOANI",
+        "symbol": "MOANI",
+        "decimals": 18
       }
     ]
   ],
