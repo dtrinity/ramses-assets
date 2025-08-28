@@ -243,6 +243,18 @@
         "name": "JEFF",
         "symbol": "JEFF",
         "decimals": 18
+      },
+      {
+        "address": "0xb88339CB7199b77E23DB6E890353E22632Ba630f",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6
+      },
+      {
+        "address": "0xfDD22Ce6D1F66bc0Ec89b20BF16CcB6670F55A5a",
+        "name": "thBILL",
+        "symbol": "thBILL",
+        "decimals": 6
       }
     ]
   ],
