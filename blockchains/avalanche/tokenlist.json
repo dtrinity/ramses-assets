@@ -1335,6 +1335,12 @@
         "name": "MOANI",
         "symbol": "MOANI",
         "decimals": 18
+      },
+      {
+        "address": "0x700103766c23fb8dA956cAF94C756b90106EEB41",
+        "name": "World Liberty Financial",
+        "symbol": "WLFI",
+        "decimals": 18
       }
     ]
   ],
