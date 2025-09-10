@@ -1347,6 +1347,12 @@
         "name": "Staked USDe",
         "symbol": "sUSDe",
         "decimals": 18
+      },
+      {
+        "address": "0xbf45fC3a6306Bd4F374F184944098fF79e69FD4D",
+        "name": "Dorito",
+        "symbol": "DORITO",
+        "decimals": 18
       }
     ]
   ],
