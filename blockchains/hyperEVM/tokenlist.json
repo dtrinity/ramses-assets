@@ -261,6 +261,12 @@
         "name": "U$D",
         "symbol": "U$D",
         "decimals": 6
+      },
+      {
+        "address": "0x33Af3c2540Ba72054e044EFe504867B39aE421f5",
+        "name": "Unit Plasma",
+        "symbol": "UXPL",
+        "decimals": 18
       }
     ]
   ],
