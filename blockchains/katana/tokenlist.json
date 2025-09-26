@@ -1,0 +1,28 @@
+{
+  "name": "Katana Assets List",
+  "logoURI": "http://empty",
+  "timestamp": "2022-01-27T14:33:26.183301",
+  "tokens": [
+    {
+      "chainId": 747474,
+      "address": "0xcA52d08737E6Af8763a2bF6034B3B03868f24DDA",
+      "symbol": "dUSD",
+      "name": "dTRINITY USD",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 747474,
+      "address": "0xB76144F87DF95816e8c55C240F874C554B4553C3",
+      "symbol": "dETH",
+      "name": "dTRINITY ETH",
+      "decimals": 18,
+      "logoURI": ""
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
