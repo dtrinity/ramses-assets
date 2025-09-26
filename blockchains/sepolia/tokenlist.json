@@ -1,0 +1,76 @@
+{
+  "name": "Sepolia Assets List",
+  "logoURI": "http://empty",
+  "timestamp": "2022-01-27T14:33:26.183301",
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "address": "0x321b35625e75597411c3558ca2aBDB5e3E3Cb7ee",
+      "symbol": "dUSD",
+      "name": "dTRINITY USD",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x080631fD78DFD19eb7CEe79D7D45B5006F14EA21",
+      "symbol": "dETH",
+      "name": "dTRINITY ETH",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 11155111,
+      "address": "0xb459960891Ec9fF8736039F5bAE1897223214C18",
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x64474f3447911DcA644E62A8EED3c422C5B7eFef",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 6,
+      "logoURI": ""
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x55F937DEF274C6CBd9444f0857639757C5A2a3E9",
+      "symbol": "stETH",
+      "name": "Staked ETH",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 11155111,
+      "address": "0xD515eb614De9348eF6802ea84695C1975db7D377",
+      "symbol": "frxUSD",
+      "name": "Frax USD",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x59672F701901b3E56343A5b8EbB8a90aD1221a86",
+      "symbol": "sUSDS",
+      "name": "Savings USDS",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x9f2013831e371587a8E39f2A43DF774af2178e35",
+      "symbol": "sfrxUSD",
+      "name": "Staked Frax USD",
+      "decimals": 18,
+      "logoURI": ""
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
