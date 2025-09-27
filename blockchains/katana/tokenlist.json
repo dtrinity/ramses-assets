@@ -18,6 +18,54 @@
       "name": "dTRINITY ETH",
       "decimals": 18,
       "logoURI": ""
+    },
+    {
+      "chainId": 747474,
+      "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+      "symbol": "frxUSD",
+      "name": "Frax USD",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 747474,
+      "address": "0x5Bff88cA1442c2496f7E475E9e7786383Bc070c0",
+      "symbol": "sfrxUSD",
+      "name": "Staked Frax USD",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 747474,
+      "address": "0x203A662b0BD271A6ed5a60EdFbd04bFce608FD36",
+      "symbol": "vbUSDC",
+      "name": "Vault Bridge USDC",
+      "decimals": 6,
+      "logoURI": ""
+    },
+    {
+      "chainId": 747474,
+      "address": "0x2DCa96907fde857dd3D816880A0df407eeB2D2F2",
+      "symbol": "vbUSDT",
+      "name": "Vault Bridge USDT",
+      "decimals": 6,
+      "logoURI": ""
+    },
+    {
+      "chainId": 747474,
+      "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+      "symbol": "AUSD",
+      "name": "AUSD",
+      "decimals": 6,
+      "logoURI": ""
+    },
+    {
+      "chainId": 747474,
+      "address": "0x4772D2e014F9fC3a820C444e3313968e9a5C8121",
+      "symbol": "yUSD",
+      "name": "YieldFi yUSD",
+      "decimals": 18,
+      "logoURI": ""
     }
   ],
   "version": {
