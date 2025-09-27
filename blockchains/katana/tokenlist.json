@@ -66,6 +66,22 @@
       "name": "YieldFi yUSD",
       "decimals": 18,
       "logoURI": ""
+    },
+    {
+      "chainId": 747474,
+      "address": "0xEE7D8BCFb72bC1880D0Cf19822eB0A2e6577aB62",
+      "symbol": "vbETH",
+      "name": "Vault Bridge ETH",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 747474,
+      "address": "0x9893989433e7a383Cb313953e4c2365107dc19a7",
+      "symbol": "weETH",
+      "name": "Wrapped eETH",
+      "decimals": 18,
+      "logoURI": ""
     }
   ],
   "version": {
