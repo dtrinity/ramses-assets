@@ -38,7 +38,7 @@
     {
       "chainId": 747474,
       "address": "0x203A662b0BD271A6ed5a60EdFbd04bFce608FD36",
-      "symbol": "vbUSDC",
+      "symbol": "USDC",
       "name": "Vault Bridge USDC",
       "decimals": 6,
       "logoURI": ""
@@ -46,7 +46,7 @@
     {
       "chainId": 747474,
       "address": "0x2DCa96907fde857dd3D816880A0df407eeB2D2F2",
-      "symbol": "vbUSDT",
+      "symbol": "USDT",
       "name": "Vault Bridge USDT",
       "decimals": 6,
       "logoURI": ""
